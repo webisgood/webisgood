@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webisgood
-- 👀 I’m interested in web design, ML, AI etc.
-- 🌱 I’m currently learning building a web app using React.
+- 👀 I’m interested in Robot design & control, ML, AI etc.
+- 🌱 I’m currently doing a minor in Robotics & Automation at my college as a part of which I'm working in few course projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
