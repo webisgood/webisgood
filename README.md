@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thathapudi Sanjeev Paul Joel.
+- 👋 Hi, I’m @webisgood.
 - 👀 I’m interested in the design of controllers for electronic systems, robots, etc. Also, I'm interested in designing complex digital systems like Microprocessors, SOCs, etc.
 - 🌱 Apart from my course curriculum, I've also done a minor course in Automation & Robotics at my institution.
 - 💞️ I’m looking to collaborate on writing the hardware description of complex digital systems, developing test benches for verifying their functionality, etc. I'm also
